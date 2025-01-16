@@ -141,6 +141,11 @@ img {
 	height: auto;
 }
 
+video {
+  max-width: 100%;
+  height: auto;
+}
+
 a {
 	color: var(--link-color);
 }
